@@ -62,7 +62,7 @@ I am eager to apply my skills and knowledge to a full-time role as a Front-End D
 
 ### **📚 🎓 Education/ Courses**
 
-- Frontend Web Developer Course on the [Tel-Ran.de GmbH](https://tel-ran.de)
+- React Developer Course on the [Tel-Ran.de GmbH](https://tel-ran.de)
 - Web Developer Course (HTML, CSS, BEM) on the [HTML Academy](https://htmlacademy.ru/)
 - JavaScript Course on the [HTML Academy](https://htmlacademy.ru/)
 - JavaScript Manual on [javascript.info](https://javascript.info/)
