@@ -11,6 +11,7 @@
 
 **E-mail:** MaksymMaievskyi@gmail.com <br/>
 **GitHub:** [RedMaxMay](https://github.com/RedMaxMay) <br/>
+**Portfolio and CV:** [Portfolio and CV](https://maxmay-portfolio.netlify.app/) <br/>
 **Linkedin:** [Maksym Maievskyi](https://www.linkedin.com/in/maksym-maievskyi/)</div>
 
 ### **🗂 🗄 Summary**
