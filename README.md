@@ -14,20 +14,10 @@
 **Portfolio and CV:** [Portfolio and CV](https://maxmay-portfolio.netlify.app/) <br/>
 **Linkedin:** [Maksym Maievskyi](https://www.linkedin.com/in/maksym-maievskyi/)</div>
 
-### **🗂 🗄 Summary**
-
-<div align="left">  
-As a passionate Front-End Developer with a solid foundation in relevant technologies, I'm confident in my ability to add value to any development team.
-<br/>
-While my previous experience primarily involved leadership roles, I have always maintained a strong interest in coding, and have recently completed a React Developer course to fully transition into the development field. In addition to my technical skills, my decade of experience leading teams has increased my soft skills, enabling me to communicate effectively with team members and clients alike. 
-<br/>
-I want to apply my skills and knowledge to a full-time role as a Front-End Developer, where I can further develop my expertise and contribute to creating outstanding digital solutions.<br/>
-</div>
-
 ### **💻 🔭 Hard Skills**
 
 ● Frontend-Basic : HTML/HTML5 _ CSS/SCSS _ Javascript _ Responsive Design _ Bootstrap _ <br/>
-● Frontend-Prof : React _ Redux _ Rest API _ Gulp _ Webpack ...<br/>
+● Frontend-Prof : React _ Redux _ Rest API _ Gulp _ React Native _ TypeScript _  ...<br/>
 ● Database : MySQL _ MongoDB ... <br/>
 ● PM Tools : Git _ Github _ Linux _ Trello _ VS Code _ IntelliJ ... <br/>
 ● Others : Figma _ Photoshop _ Adobe Illustrator _ Webflow ...<br/>
